@@ -1,2 +1,3 @@
 Dia 1: Hoy empiezo mi diario con Git.
 Dia 2: Hoy aprendi sobre el comando giy add y git commit.
+Dia 3: estoy entendiendo como funcionan las ramas en Git.
